@@ -1,0 +1,31 @@
+
+
+table{
+    width: 40%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.comp{
+    background-color: rgb(250, 254, 239);
+}
+
+.emp{
+    background-color: rgb(77, 77, 77);
+}
+
+.avan{
+    background-color: rgb(255, 48, 86);
+}
+.start{
+    background-color: rgb(68, 255, 0);
+}
+.btn{
+    background-color: rgb(243, 240, 247);
+    color: rgb(176, 23, 214);
+}
